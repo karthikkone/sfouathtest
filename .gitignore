@@ -1,0 +1,13 @@
+node_modules/
+*.env
+logs
+*.log
+npm-debug.log*
+.npm
+.eslintcache
+.env
+.DS_Store
+
+#should be checked in ?
+#skip only to avoid merge conflicts
+package-lock.json
